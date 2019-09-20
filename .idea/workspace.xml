@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/dependency-injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/src/BMWFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/src/CarBuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/src/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/src/CarMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-injection/src/TicoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MallardDuck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MiniDuckSimulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MuteQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Quack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/QuackBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Squack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/Squack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\CRS-P-60\Desktop\dev\design-pattern-practice\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R5Aek2wxjc6mOCEvRWRlAgJgcp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15298088" />
+    <property name="project.structure.side.proportion" value="0.36700127" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniDuckSimulator" />
+      <module name="strategy-pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniDuckSimulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="" />
+      <created>1568946680559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568946680559</updated>
+      <workItem from="1568946682156" duration="8099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
