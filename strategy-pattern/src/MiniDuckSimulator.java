@@ -1,14 +1,18 @@
+// 테스트 클래스
 public class MiniDuckSimulator {
     public static void main (String[] args) {
         Duck mallard = new MallardDuck();
 
 //      위임할 객체를 선택하는 setter
 //        -> 실행 시점에 행동에 대한 제어가 쉬워진다.
-        mallard.performQuack();
-        mallard.performFly();
 
-        mallard.setFlyBehavior(new FlyNoWay());
-        mallard.performFly();
+        mallard.performQuack(); // 꽥꽥
+        // 이렇게 하면, MallardDuck에서 상속받은 performQuack()메소드가 호출된다.
+        // 이 메소드에서는 객체의 QuackBehavior에게 할 일을 위임한다.
+        // QuackBehavior 레퍼런스의 quack() 메소드가 호출된다.
+
+        // performFly() 메소드도 위의 performQuack() 메소드처럼 호출된다.
+        mallard.performFly(); // 날고 있어요!!
     }
 }
 
