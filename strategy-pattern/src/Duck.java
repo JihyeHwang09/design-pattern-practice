@@ -11,6 +11,12 @@
 새로 만든 performQuack(), performFly() 메소드에서
 각각 FlyBehavior, QuackBehavior로 참조되는 객체에 그 행동을 위임해 줄 것이다.
 */
+
+// 추상클래스는 객체를 생성할 수 없다. 아직은 실체성이 없고 구체적이지 않기 때문이다.
+// 추상클래스는 추상 메서드를 포함하고 객체화할 수 없다는 점만 제외하고 일반 클래스와 다르지 않다.
+// -> 생성자, 멤버변수와 일반 메서드도 가질 수 있다.
+// 추상 클래스 자체로는 클래스로의 역할을 하지 못하고 객체를 생성할 수 없지만
+// 새로운 클래스를 작성하는데 있어서 부모 클래스로서 중요한 역할을 한다.
 public abstract class Duck {
     // 2개의 인터페이스 형식의 인스턴스 변수 flyBehavior, quackBehavior를 추가한다.
     // (특정 구상 클래스 형식으로 선언하지 않는다.)
@@ -20,9 +26,9 @@ public abstract class Duck {
 
     // 행동 인터페이스 형식의 레퍼런스 변수 2개를 선언한다.
     // (같은 패키지에 속하는) 모든 서브클래스에서 이 변수를 상속 받는다.
-
     QuackBehavior quackBehavior;
     FlyBehavior flyBehavior;
+
     public Duck () {
 
     }
@@ -49,12 +55,46 @@ public abstract class Duck {
         System.out.println("모든 오리는 물에 뜹니다. 가짜 오리도 뜨죠");
     }
 
-//    public void setFlyBehavior (FlyBehavior flyBehavior) {
-//        this.flyBehavior = flyBehavior;
-//    }
+    public void setFlyBehavior(FlyBehavior fb) {
+        flyBehavior = fb;
+    }
+    public  void setQuackBehavior(QuackBehavior qb) {
+        quackBehavior = qb;
+    }
 
-//    public void setQuackBehavior (QuackBehavior quackBehavior) {
-//        this.quackBehavior = quackBehavior;
-//    }
 
 }
+/*
+레퍼런스 변수 super
+    : super는 슈퍼 클래스를 가리키는 레퍼런스 변수
+    클래스 인스턴스가 생성될 때 기본적으로 제공된다.
+    서브클래스에서 오버라이딩하면, 슈퍼 클래스의 해당 메서드가 은닉화되는데
+    이렇게 서브클래스에서 오버라이딩된 슈퍼클래스의 메소드나 은닉화된 변수를 호출할 때 사용한다.
+
+
+    상속에서의 생성자
+ => 1. 생성자는 상속되지 않는다
+     2. 서브 클래스에서 인스턴스가 생성될때 자신의 생성자가 호출되면서 슈퍼클래스의 생성자를
+         연속적으로 자동호출한다.
+         이때 자동생성되는 생성자는 전달인자가 없는 디폴트 생성자형태이다.
+     3. 슈퍼클래스의 생성자가 먼저 실행되고 서브 클래스의 생성자가 실행된다.
+
+바인딩
+ : 메소드는 최종 오버라이딩 된것으로 호출된다.
+
+- 동적바인딩(런타임시 바인딩):
+프로그램 실행중 함수가 호출될 때 그 메모리 참조를 알아내는 것을 뜻한다.
+이는 메서드 오버로딩이나 오버라이딩 구현개념이다.
+즉, 메서드가 같은 이름이라도 인자나 리턴값에 따라서
+동적으로 호출되니, 호출될 때 그 메서드를 참조해야 하는 것이죠.
+이때 메서드가 호출된 메모리참조를 알아내는 작업을 수행하는 시간이 약간의 시간을 잡아 먹는다.
+-> 실행시(런타임)에 참조변수와 인스턴스 등을 연결하기 때문에 컴파일 때 연결하는 것보다 속도가 좀 떨어지게 된다.
+But, 동적바인딩은 실행시에 연결되기 때문에 굉장한 유연성을 갖게 된다.
+
+- 정적바인딩(컴파일시 바인딩):
+참조변수와 인스턴스를 컴파일때 연결하는 것이라 컴파일시에 모든 연결(호출)이 결정나 버린다.
+ 그래서 실행시에 연결을 변경할 수 없습니다.
+
+출처: https://sfeg.tistory.com/109 [즐거운]
+ */
+

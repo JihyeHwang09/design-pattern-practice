@@ -13,6 +13,19 @@ public class MiniDuckSimulator {
 
         // performFly() 메소드도 위의 performQuack() 메소드처럼 호출된다.
         mallard.performFly(); // 날고 있어요!!
+
+
+
+        Duck model = new ModelDuck();
+        // performFly를 처음 호출하면, ModelDuck 생성자에서 설정되었던 flyBehavior,
+        // 즉 FlyNoWay 인스턴스의 fly() 메소드가 호출된다.
+        model.performFly();
+        model.setFlyBehavior(new FlyRocketPowered()); // 이렇게 하면 행동 세터 메서드가 호출된다.
+        // 이제 모형 오리에 로켓의 추진력으로 날 수 잇는 능력이 생겼다.
+        // 제대로 돌아간다면 모형 오리는 동적으로 나는 행동을 바꿀 수 있다.
+        // 구현 코드가 Duck 클래스 안에 들어잇었다면, 그렇게 할 수 없다.
+        model.performFly();
+
     }
 }
 
