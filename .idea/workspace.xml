@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/CoffeeStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/Expresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/src/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/src/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/src/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/src/NYStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/src/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/src/PizzaTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory-pattern/src/SimplePizzaFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/decorator-pattern/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" afterDir="false" />
@@ -57,7 +59,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15298088" />
     <property name="project.structure.side.proportion" value="0.36700127" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -144,7 +146,7 @@
       <workItem from="1569809714474" duration="654000" />
       <workItem from="1570432056691" duration="818000" />
       <workItem from="1570433359788" duration="693000" />
-      <workItem from="1570490766067" duration="3541000" />
+      <workItem from="1570490766067" duration="7820000" />
     </task>
     <servers />
   </component>
