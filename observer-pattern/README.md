@@ -32,4 +32,4 @@ ex) 코드에서   one = WeatherData, many = Display 장치가 된다는 걸 알
 
 
 ### 참고 링크
--  [정리정리정리] 디자인패턴 - 옵저버 패턴 (observer pattern)]: https://jusungpark.tistory.com/8?category=630296
+- [[정리정리정리] 디자인패턴 - 옵저버 패턴 (observer pattern)]: https://jusungpark.tistory.com/8?category=630296

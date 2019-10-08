@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/decorator-pattern/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/CoffeeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/Expresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator-pattern/src/Mocha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer-pattern/src/CurrentConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/src/CurrentConditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer-pattern/src/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/src/DisplayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer-pattern/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/src/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer-pattern/src/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/src/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer-pattern/src/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/src/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer-pattern/src/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/src/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/decorator-pattern/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" afterDir="false" />
@@ -19,8 +18,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/MiniDuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MiniDuckSimulator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/MuteQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MuteQuack.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/Squack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Squack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/src/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy-pattern/src/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/src/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/strategy-pattern/src/MiniDuckSimulator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,6 +143,8 @@
       <workItem from="1569544190639" duration="4264000" />
       <workItem from="1569809714474" duration="654000" />
       <workItem from="1570432056691" duration="818000" />
+      <workItem from="1570433359788" duration="693000" />
+      <workItem from="1570490766067" duration="3541000" />
     </task>
     <servers />
   </component>
