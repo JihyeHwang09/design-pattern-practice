@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/factory-pattern/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/src/ChicagoPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/src/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/src/NYPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/src/NYStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/src/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/src/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/src/PizzaTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-pattern/src/SimplePizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/singleton-pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/ChocolateBoilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/NonSingletonChocolateBoilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependency-injection/dependency-injection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-injection/dependency-injection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory-pattern/src/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/src/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory-pattern/src/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/src/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory-pattern/src/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/src/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" afterDir="false" />
@@ -20,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/MiniDuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MiniDuckSimulator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/MuteQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MuteQuack.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/Squack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Squack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +150,17 @@
       <workItem from="1569809714474" duration="654000" />
       <workItem from="1570432056691" duration="818000" />
       <workItem from="1570433359788" duration="693000" />
-      <workItem from="1570490766067" duration="7820000" />
+      <workItem from="1570490766067" duration="12586000" />
+      <workItem from="1570665713426" duration="616000" />
+      <workItem from="1570667223545" duration="1432000" />
+      <workItem from="1571202284786" duration="2640000" />
+      <workItem from="1571272224489" duration="1329000" />
+      <workItem from="1571363389697" duration="1418000" />
+      <workItem from="1571797762192" duration="42000" />
+      <workItem from="1572415188385" duration="3992000" />
+      <workItem from="1572419579878" duration="1184000" />
+      <workItem from="1572481451920" duration="115000" />
+      <workItem from="1572591871314" duration="2030000" />
     </task>
     <servers />
   </component>
