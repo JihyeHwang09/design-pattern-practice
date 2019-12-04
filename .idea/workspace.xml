@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/singleton-pattern/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-pattern/singleton-pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/ChocolateBoilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/NonSingletonChocolateBoilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator-pattern/iterator-pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/AllMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency-injection/dependency-injection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-injection/dependency-injection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-pattern/src/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/src/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-pattern/src/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/src/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-pattern/src/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-pattern/src/PizzaTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyNoWay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/FlyWithWings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MallardDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/MiniDuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MiniDuckSimulator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/MuteQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/MuteQuack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/strategy-pattern/Squack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strategy-pattern/Squack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,12 +48,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15298088" />
     <property name="project.structure.side.proportion" value="0.36700127" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRS-P-89\Desktop\dev\design-pattern-practice\iterator-pattern\src" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
@@ -160,7 +148,12 @@
       <workItem from="1572415188385" duration="3992000" />
       <workItem from="1572419579878" duration="1184000" />
       <workItem from="1572481451920" duration="115000" />
-      <workItem from="1572591871314" duration="2030000" />
+      <workItem from="1572591871314" duration="2852000" />
+      <workItem from="1572831604514" duration="240000" />
+      <workItem from="1572831873999" duration="441000" />
+      <workItem from="1573115728125" duration="54000" />
+      <workItem from="1574735637154" duration="3827000" />
+      <workItem from="1575439406360" duration="1322000" />
     </task>
     <servers />
   </component>
