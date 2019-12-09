@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iterator-pattern/iterator-pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/AllMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/DinerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/PancakeHouseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator-pattern/src/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator-pattern/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/iterator-pattern/src/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +32,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -60,18 +58,6 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.MiniDuckSimulator">
     <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -119,6 +105,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -153,7 +151,8 @@
       <workItem from="1572831873999" duration="441000" />
       <workItem from="1573115728125" duration="54000" />
       <workItem from="1574735637154" duration="3827000" />
-      <workItem from="1575439406360" duration="1322000" />
+      <workItem from="1575439406360" duration="1563000" />
+      <workItem from="1575873552984" duration="3057000" />
     </task>
     <servers />
   </component>
