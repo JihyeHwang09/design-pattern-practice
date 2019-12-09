@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/state-pattern/src/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state-pattern/src/GumballMachineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state-pattern/state-pattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterator-pattern/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/iterator-pattern/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -37,9 +40,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,11 +62,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\CRS-P-89\Desktop\dev\design-pattern-practice\iterator-pattern\src" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRS-P-89\Desktop\dev\design-pattern-practice\iterator-pattern\src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MiniDuckSimulator">
@@ -152,7 +168,7 @@
       <workItem from="1573115728125" duration="54000" />
       <workItem from="1574735637154" duration="3827000" />
       <workItem from="1575439406360" duration="1563000" />
-      <workItem from="1575873552984" duration="3057000" />
+      <workItem from="1575873552984" duration="5125000" />
     </task>
     <servers />
   </component>
@@ -171,5 +187,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1575877316888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575877316888" />
+    <state x="665" y="407" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575879309078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="407" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575879309078" />
+    <state x="731" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575879321216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575879321216" />
+    <state x="100" y="72" key="new project wizard" timestamp="1575877311083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="72" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575877311083" />
   </component>
 </project>
