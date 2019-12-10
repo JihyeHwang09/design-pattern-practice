@@ -159,5 +159,5 @@ public class CompoisteIterator implements Iterator {
 
 ---
 ### 참고 링크
-[이터레이터 패턴 (iterator pattern)- 정리정리정리]: https://jusungpark.tistory.com/25
-[Head First : Design Patterns - 제9장 Iterator 와 Composite 패턴]: https://secretroute.tistory.com/entry/Head-First-Design-Patterns-%EC%A0%9C9%EC%9E%A5-Iterator-%EC%99%80-Composite-%ED%8C%A8%ED%84%B4
+- [이터레이터 패턴 (iterator pattern)[정리정리정리]](https://jusungpark.tistory.com/25)
+- [Head First: Design Patterns - 제9장 Iterator 와 Composite 패턴](https://secretroute.tistory.com/entry/Head-First-Design-Patterns-%EC%A0%9C9%EC%9E%A5-Iterator-%EC%99%80-Composite-%ED%8C%A8%ED%84%B4)

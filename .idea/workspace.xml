@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterator-pattern/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/iterator-pattern/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/state-pattern/src/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/state-pattern/src/GumballMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/iterator-pattern/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,14 +66,15 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRS-P-89\Desktop\dev\design-pattern-practice\iterator-pattern" />
+      <recent name="C:\Users\CRS-P-89\Desktop\dev\design-pattern-practice\iterator-pattern\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\CRS-P-89\Desktop\dev\design-pattern-practice\iterator-pattern\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MiniDuckSimulator">
@@ -172,7 +172,7 @@
       <workItem from="1575439406360" duration="1563000" />
       <workItem from="1575873552984" duration="6144000" />
       <workItem from="1575936822464" duration="3563000" />
-      <workItem from="1575946799807" duration="4858000" />
+      <workItem from="1575946799807" duration="5335000" />
     </task>
     <servers />
   </component>
