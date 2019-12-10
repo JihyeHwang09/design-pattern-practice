@@ -51,7 +51,16 @@ public class GumballMachine {
 
     public String toString() {
             String stateStr = null;
-            if (state == )
+            if (state == SOLD_OUT) {
+                stateStr = "알맹이 매진";
+            } else if (state == NO_QUATER) {
+                stateStr = "동전없음(투입 대기중)";
+            } else if (state == HAS_QUATER) {
+                stateStr = "동전없음";
+            } else if (state == SOLD) {
+                stateStr = "알맹이판매";
+            }
+            return "남은 개수" + count + "\n기계상태:" + stateStr;
         }
     }
 }
