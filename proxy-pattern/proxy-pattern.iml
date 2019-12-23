@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.path="$MODULE_DIR$/../../junit-practice/practice_02" external.root.project.path="$MODULE_DIR$/../../junit-practice/practice_02" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../decorator-pattern/proxy-pattern" rootProjectPath="$MODULE_DIR$/../decorator-pattern/proxy-pattern" />
+<module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">

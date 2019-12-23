@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterator-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/iterator-pattern/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/proxy-pattern/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +12,23 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/decorator-pattern/proxy-pattern">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,6 +58,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -172,7 +190,11 @@
       <workItem from="1575439406360" duration="1563000" />
       <workItem from="1575873552984" duration="6144000" />
       <workItem from="1575936822464" duration="3563000" />
-      <workItem from="1575946799807" duration="5335000" />
+      <workItem from="1575946799807" duration="7038000" />
+      <workItem from="1576020624976" duration="2035000" />
+      <workItem from="1576024793930" duration="3000" />
+      <workItem from="1577082602155" duration="682000" />
+      <workItem from="1577083413354" duration="4395000" />
     </task>
     <servers />
   </component>
@@ -192,11 +214,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1575877316888">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1577082846333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575877316888" />
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1577082846333" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576022727610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576022727610" />
     <state x="665" y="407" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575879309078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -205,13 +234,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575879321216" />
-    <state x="100" y="72" key="new project wizard" timestamp="1575877311083">
+    <state x="100" y="72" key="new project wizard" timestamp="1577082791050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="100" y="72" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575877311083" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575879502451">
+    <state x="100" y="72" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1577082791050" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577087232835">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575879502451" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1577087232835" />
   </component>
 </project>
