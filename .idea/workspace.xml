@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0beb7350-30fb-424c-8568-f1bb7406a38c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/state-pattern/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proxy-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/proxy-pattern/README.md" afterDir="false" />
     </list>
@@ -12,6 +13,20 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/decorator-pattern/proxy-pattern">
@@ -194,7 +209,7 @@
       <workItem from="1576020624976" duration="2035000" />
       <workItem from="1576024793930" duration="3000" />
       <workItem from="1577082602155" duration="682000" />
-      <workItem from="1577083413354" duration="4395000" />
+      <workItem from="1577083413354" duration="7376000" />
     </task>
     <servers />
   </component>
@@ -234,10 +249,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575879321216" />
-    <state x="100" y="72" key="new project wizard" timestamp="1577082791050">
+    <state x="100" y="72" key="new project wizard" timestamp="1577088294789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="100" y="72" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1577082791050" />
+    <state x="100" y="72" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1577088294789" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577087232835">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
